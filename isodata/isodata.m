@@ -1,4 +1,3 @@
-
 function level=isodata(I)
 %   ISODATA Compute global image threshold using iterative isodata method.
 %   LEVEL = ISODATA(I) computes a global threshold (LEVEL) that can be
